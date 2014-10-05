@@ -1,2 +1,7 @@
 Test2
+<<<<<<< HEAD
 Test edit
+=======
+
+Modified in repo
+>>>>>>> origin/master
